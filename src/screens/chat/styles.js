@@ -78,7 +78,6 @@ const styles = StyleSheet.create({
   },
   chatBar: {
     width: '100%',
-    height: px(55) + extraFooterHeight,
     paddingHorizontal: px(10),
     paddingVertical: px(9),
     paddingBottom: px(9) + extraFooterHeight,
